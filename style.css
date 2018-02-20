@@ -1,0 +1,25 @@
+
+.container{ border: 0px solid; }
+
+.bordureRouge{ border: 3px solid darkgray; padding: 10px;}
+
+.bordureVerte{ border: 3px solid green; padding: 10px; }
+
+.bordureBleue{ border: 3px solid blue; padding: 5px; }
+
+.bordureJaune{ border: 3px solid yellow; padding: 10px; }
+
+.bordureOrange{ border: 3px solid orange; padding: 10px; }
+
+.background   { background-color: darkgray }
+
+.taille       { min-height: 90px      }
+
+.absence       { min-height: 50px      }
+.header-2 { min-height: 400px; } 
+.header-1, .header-3{ border: 10px solid  }
+.section-1, .section-2, .section-3{ min-height: 400px; }
+
+.bordurepai{ margin: 30 auto;width:80% }
+
+.sansbordure{ border: 0px solid orange; padding: 10px; }
